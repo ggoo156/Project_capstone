@@ -16,5 +16,5 @@ New York City is the biggest city on the east coast of the United States and the
 - [1.Data_Collection](https://github.com/ggoo156/project_capstone/blob/master/code/1.data_collection.ipynb)
 - [2.Expolratory_Data_Analysis](https://github.com/ggoo156/project_capstone/blob/master/code/2.EDA.ipynb)
 - [3.Preprocessing](https://github.com/ggoo156/project_capstone/blob/master/code/3.Preprocessing.ipynb)
-- [4.Modeling]()
-- [5.Conclusion]()
+- [4.Modeling & Conclusion]()
+
