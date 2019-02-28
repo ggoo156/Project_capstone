@@ -18,3 +18,7 @@ New York City is the biggest city on the east coast of the United States and the
 - [3.Preprocessing](https://github.com/ggoo156/project_capstone/blob/master/code/3.Preprocessing.ipynb)
 - [4.Modeling & Conclusion]()
 
+### Conclusion and Recommendation
+- One unit higher in restaurant rating will decrease the chance to get **C** grade by 23%.
+- During the summer season, the probability to get **C** will be increased by 50%.
+- Manhattan area tends to have worst inspection score than other boroughs.
