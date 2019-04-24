@@ -1,4 +1,4 @@
-# Capstone Project: Restaurant Inspection Result with Yelp API
+# Capstone Project: NYC Restaurant Inspection Result with Yelp API
 
 ### Forward
 The goal of this project is to predict the inspection score (grade) of NYC restaurants using Department of Health and Mental Hygiene (DOHMH) New York City Restaurant Inspection Results data and Yelp API.  Within this repository, you will find a documented process for sourcing, cleaning, modeling, and combining Yelp data with the inspection data.  The models and methods contained here are intended for use by DOHMH NYC government representative for reference but we invite and encourage any NYC restaurant to use this analysis to predict what there inspection score (grade) might be based on details about the restaurant and customer created yelp data.
